@@ -1,2 +1,2 @@
-# abyss-runner
+# AbyssRunner
 An arcade rendition of a dungeon crawler game, written in Processing
