@@ -1,2 +1,2 @@
 # AbyssRunner
-An arcade rendition of a dungeon crawler game, written in Processing
+An arcade rendition of a dungeon crawler game, written in Processing.
